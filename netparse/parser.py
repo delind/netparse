@@ -30,7 +30,7 @@ class PCADTransformer(Transformer):
 
 if __name__ == "__main__":
     f_in = os.path.join(dir_, "..\\test\\data\\pcad_short.NET")
-    f_tree = os.path.join(dir_, "..\\test\\data\\pcad_short_tree.txt")
+    f_tree = os.path.join(dir_, "..\\test\\data\\pcad_short_tree.log")
 
     with open(f_in, 'r') as f:
         text = f.read()
