@@ -1,0 +1,10 @@
+(netlist "Netlist_1"
+  (compInst "C190"
+    (compRef "CAP")
+    (originalName "CAP")
+    (compValue "10nF 50V X7R")
+    (attr "Capacitance" "4.7uF" (textStyleRef "(Default)"))
+  )
+)
+(compValue "10nF 50V X7R")
+(originalName "CAP")
